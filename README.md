@@ -22,8 +22,8 @@ Using Canny operator from cv2,detect the edges of the image.
 Detect line co-ordinates for every points in the images. Draw the lines on the found co-ordinates and display the image.
 ## Program:
 ```Python
-Developed by : KIRAN jJ 
-Registration Number : 212221240022
+Developed by : Gunaseelan G
+Registration Number : 212221230031
 
 # Read image and convert it to grayscale image
 import cv2
@@ -55,13 +55,17 @@ plt.imshow(edges1)
 ## Output
 
 ### Input image and grayscale image
-![output](EX!1.jpg)
+![out1](https://user-images.githubusercontent.com/93427255/232983277-36d52601-21b2-4c31-8c58-8de75ccfa202.png)
+
 
 ### Canny Edge detector output
-![output](EX!2.jpg)
+![out2](https://user-images.githubusercontent.com/93427255/232983599-59f90669-ea48-4b3f-8f2d-736f66361082.png)
+    
 
 ### Display the result of Hough transform
-![output](EX!3.jpg)
+![out3](https://user-images.githubusercontent.com/93427255/232983623-865aa044-007c-438d-9c7d-fbe0e12f5911.png)
+
+
 
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
